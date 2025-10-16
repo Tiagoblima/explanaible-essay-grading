@@ -1,4 +1,4 @@
-# Métodos de XAI para Explicação de Incerteza em Modelos de Automatic Essay Scoring (AES)
+# Métodos de XAI para Explicação de Incerteza em Modelos de Automatic Essay Scoring (AES) (IA Generated)
 
 ## 📘 Descrição do Projeto
 Este projeto explora métodos de **Explainable Artificial Intelligence (XAI)** aplicados para explicar a incerteza ou erro de modelos de **machine learning** no contexto de **Automatic Essay Scoring (AES)**. A incerteza pode surgir devido à variação nos dados ou limitações do modelo, sendo essencial para compreender as limitações das predições e melhorar a confiabilidade do sistema.
