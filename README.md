@@ -1,4 +1,4 @@
-# Métodos de XAI para Explicação de Incerteza em Modelos de Automatic Essay Scoring (AES) (IA Generated)
+# Métodos de XAI para Explicação de Incerteza em Modelos de Automatic Essay Scoring (AES) 
 
 ## 📘 Descrição do Projeto
 Este projeto explora métodos de **Explainable Artificial Intelligence (XAI)** aplicados para explicar a incerteza ou erro de modelos de **machine learning** no contexto de **Automatic Essay Scoring (AES)**. A incerteza pode surgir devido à variação nos dados ou limitações do modelo, sendo essencial para compreender as limitações das predições e melhorar a confiabilidade do sistema.
@@ -38,3 +38,5 @@ Optou-se por usar uma versão **balanceada do dataset** para evitar vieses decor
 1. Clone o repositório:  
    ```bash
    git clone <URL_DO_REPOSITORIO>
+
+[IA Generated]
